@@ -9,7 +9,7 @@ https://github.com/ansoncloud8/am-cf-sub-rss
 - Telegram交流群：[@AM_CLUBS](https://t.me/AM_CLUBS)
 - 免费订阅：[进群发送关键字: 订阅](https://t.me/AM_CLUBS)
 
-## Pages 部署方法 [视频教程](https://youtube.com/watch?v=f9hDJCqAEGA)
+## Pages 部署方法 [视频教程](https://youtu.be/YBO2hf96150)
 ### 1. 部署 Cloudflare Pages：
    - 在 Github 上先 Fork 本项目，并点上 Star !!!
    - 在 Cloudflare Pages 控制台中选择 `连接到 Git`后，选中 `am-cf-sub-rss`项目后点击 `开始设置`。
