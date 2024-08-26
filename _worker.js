@@ -14,7 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 vless://866853eb-5293-4f09-bf00-e13eb237c655@icook.tw:443?encryption=none&security=tls&sni=worker.amcloud.filegear-sg.me&fp=random&type=ws&host=worker.amcloud.filegear-sg.me#t.me%2FAM_CLUBS 
 vless://866853eb-5293-4f09-bf00-e13eb237c655@visa.com:443?encryption=none&security=tls&sni=worker.amcloud.filegear-sg.me&fp=random&type=ws&host=worker.amcloud.filegear-sg.me#youtube.com%2F%40AM_CLUB
-https://trojan.amcloud.filegear-sg.me/auto
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 `
 
 let urls = [];
