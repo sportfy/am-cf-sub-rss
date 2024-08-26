@@ -16,6 +16,9 @@ vless://866853eb-5293-4f09-bf00-e13eb237c655@icook.tw:443?encryption=none&securi
 vless://866853eb-5293-4f09-bf00-e13eb237c655@visa.com:443?encryption=none&security=tls&sni=worker.amcloud.filegear-sg.me&fp=random&type=ws&host=worker.amcloud.filegear-sg.me#youtube.com%2F%40AM_CLUB
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 https://moistr.freenods.sbs/mianfe
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/vless#proxy_soroushmirzaei_vless
+https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
+https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix
 `
 
 let urls = [];
